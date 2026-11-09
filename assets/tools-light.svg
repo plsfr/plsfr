@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="306" viewBox="0 0 960 306" role="img" aria-label="Инструменты. Веб: TypeScript, JavaScript, HTML, CSS. Автоматизация: PowerShell, Windows Batch.">
+  <title>Инструменты. Веб: TypeScript, JavaScript, HTML, CSS. Автоматизация: PowerShell, Windows Batch.</title>
+  <defs>
+    <pattern id="paper" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 .5H.5V24" fill="none" stroke="#e2e2e2"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="306" fill="#f6f6f6"/>
+  <rect width="960" height="306" fill="url(#paper)"/>
+  <rect x=".5" y=".5" width="959" height="305" fill="none" stroke="#c5c5c5"/>
+  <text x="42" y="43" font-family="'Courier New',monospace" font-size="23" letter-spacing="1.5" fill="#414141">02 / ИНСТРУМЕНТЫ</text>
+  <path d="M42 63.5H918 M42 170.5H918" stroke="#c5c5c5"/>
+  <g font-family="'Segoe UI',Arial,sans-serif" font-size="29" font-weight="600" fill="#171717">
+    <text x="42" y="126">Веб</text>
+    <text x="42" y="231">Автоматизация</text>
+  </g>
+  <rect x="306.5" y="92.5" width="169" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
+  <text x="391" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">TypeScript</text>
+  <rect x="486.5" y="92.5" width="169" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
+  <text x="571" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">JavaScript</text>
+  <rect x="666.5" y="92.5" width="99" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
+  <text x="716" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">HTML</text>
+  <rect x="776.5" y="92.5" width="89" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
+  <text x="821" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">CSS</text>
+  <rect x="306.5" y="198.5" width="184" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
+  <text x="398.5" y="233" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">PowerShell</text>
+  <rect x="501.5" y="198.5" width="234" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
+  <text x="618.5" y="233" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">Windows Batch</text>
+</svg>
