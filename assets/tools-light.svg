@@ -15,15 +15,15 @@
     <text x="42" y="231">Автоматизация</text>
   </g>
   <rect x="306.5" y="92.5" width="169" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
-  <text x="391" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">TypeScript</text>
+  <text x="391" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="25" fill="#171717">TypeScript</text>
   <rect x="486.5" y="92.5" width="169" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
-  <text x="571" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">JavaScript</text>
+  <text x="571" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="25" fill="#171717">JavaScript</text>
   <rect x="666.5" y="92.5" width="99" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
-  <text x="716" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">HTML</text>
+  <text x="716" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="25" fill="#171717">HTML</text>
   <rect x="776.5" y="92.5" width="89" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
-  <text x="821" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">CSS</text>
+  <text x="821" y="127" text-anchor="middle" font-family="'Courier New',monospace" font-size="25" fill="#171717">CSS</text>
   <rect x="306.5" y="198.5" width="184" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
-  <text x="398.5" y="233" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">PowerShell</text>
+  <text x="398.5" y="233" text-anchor="middle" font-family="'Courier New',monospace" font-size="25" fill="#171717">PowerShell</text>
   <rect x="501.5" y="198.5" width="234" height="53" rx="2" fill="#ffffff" stroke="#c5c5c5"/>
-  <text x="618.5" y="233" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" fill="#171717">Windows Batch</text>
+  <text x="618.5" y="233" text-anchor="middle" font-family="'Courier New',monospace" font-size="25" fill="#171717">Windows Batch</text>
 </svg>
