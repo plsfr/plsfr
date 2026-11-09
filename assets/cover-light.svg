@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img" aria-labelledby="title description">
+  <title id="title">plusfour / @plsfr</title>
+  <desc id="description">Монохромная обложка с крупной надписью plusfour и геометрической композицией в виде знака плюс.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d9d9d9"/></pattern>
+    <clipPath id="art"><rect x="632" y="64" width="310" height="230"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="359" fill="#f6f6f6" stroke="#c6c6c6"/>
+  <path d="M0 63.5H1000 M0 294.5H1000 M632.5 64V294" stroke="#c6c6c6"/>
+  <rect x="633" y="64" width="309" height="230" fill="url(#grid)"/>
+  <g clip-path="url(#art)" fill="none" stroke="#8e8e8e" stroke-width="1">
+    <path d="M637 237 C701 237, 662 134, 716 134 H769 V212 C769 243, 800 251, 815 251" opacity="0.250"/>
+    <path d="M648 233 C712 233, 673 130, 727 130 H780 V208 C780 239, 811 247, 826 247" opacity="0.287"/>
+    <path d="M659 229 C723 229, 684 126, 738 126 H791 V204 C791 235, 822 243, 837 243" opacity="0.325"/>
+    <path d="M670 225 C734 225, 695 122, 749 122 H802 V200 C802 231, 833 239, 848 239" opacity="0.362"/>
+    <path d="M681 221 C745 221, 706 118, 760 118 H813 V196 C813 227, 844 235, 859 235" opacity="0.400"/>
+    <path d="M692 217 C756 217, 717 114, 771 114 H824 V192 C824 223, 855 231, 870 231" opacity="0.438"/>
+    <path d="M703 213 C767 213, 728 110, 782 110 H835 V188 C835 219, 866 227, 881 227" opacity="0.475"/>
+    <path d="M714 209 C778 209, 739 106, 793 106 H846 V184 C846 215, 877 223, 892 223" opacity="0.512"/>
+    <path d="M725 205 C789 205, 750 102, 804 102 H857 V180 C857 211, 888 219, 903 219" opacity="0.550"/>
+    <path d="M736 201 C800 201, 761 98, 815 98 H868 V176 C868 207, 899 215, 914 215" opacity="0.587"/>
+    <path d="M747 197 C811 197, 772 94, 826 94 H879 V172 C879 203, 910 211, 925 211" opacity="0.625"/>
+    <path d="M758 193 C822 193, 783 90, 837 90 H890 V168 C890 199, 921 207, 936 207" opacity="0.662"/>
+    <path d="M769 189 C833 189, 794 86, 848 86 H901 V164 C901 195, 932 203, 947 203" opacity="0.700"/>
+    <path d="M780 185 C844 185, 805 82, 859 82 H912 V160 C912 191, 943 199, 958 199" opacity="0.738"/>
+    <path d="M791 181 C855 181, 816 78, 870 78 H923 V156 C923 187, 954 195, 969 195" opacity="0.775"/>
+    <path d="M802 177 C866 177, 827 74, 881 74 H934 V152 C934 183, 965 191, 980 191" opacity="0.813"/>
+    <path d="M813 173 C877 173, 838 70, 892 70 H945 V148 C945 179, 976 187, 991 187" opacity="0.850"/>
+  </g>
+  <path d="M798 128h46v32h32v46h-32v32h-46v-32h-32v-46h32z" fill="#f6f6f6" stroke="#252525" stroke-width="2"/>
+  <path d="M814 183h14m-7-7v14" stroke="#252525" stroke-width="2"/>
+  <g font-family="'Courier New',monospace" font-size="20" fill="#4f4f4f" letter-spacing="1">
+    <text x="52" y="40">ИНДЕКС ПРОЕКТОВ</text>
+    <text x="948" y="40" text-anchor="end">@PLSFR</text>
+    <text x="54" y="331">АВТОМАТИЗАЦИЯ / WINDOWS / ВЕБ</text>
+    <text x="948" y="331" text-anchor="end">[ + ]</text>
+  </g>
+  <text x="48" y="215" font-family="Georgia,'Times New Roman',serif" font-size="132" letter-spacing="-6" fill="#141414">plusfour</text>
+  <path d="M55 255h88" stroke="#252525" stroke-width="2"/>
+</svg>
