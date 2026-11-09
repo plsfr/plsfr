@@ -1,29 +1,24 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/cover-light.svg">
-  <img src="assets/cover-dark.svg" alt="Plus Forward · Vibe Coder" width="100%">
+  <img src="assets/cover-dark.svg" alt="PlusFour" width="100%">
 </picture>
 
-<p align="center">
-  <strong>Я вайбкодер.</strong> Делаю небольшие веб-проекты и пишу скрипты для задач, которые надоело делать вручную. В интерфейсах люблю простоту и внимание к деталям.
-</p>
+`01 / PROFILE`
 
-<br>
+I’m a **vibe coder**. I build small web projects and write scripts for tasks I’d rather automate. I care about how an interface looks and how it feels to use.
 
-<a href="https://github.com/plsfr/fourscript">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/fourscript-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/fourscript-light.svg">
-  <img src="assets/fourscript-dark.svg" alt="FourScript · Открыть репозиторий" width="100%">
-</picture>
-</a>
+---
 
-<p>Скрипт для Windows, который скачивает видео с YouTube. Можно вставить одну ссылку или передать текстовый файл со списком.</p>
+`02 / PROJECT`
 
-<br>
+### [FourScript](https://github.com/plsfr/fourscript)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/tools-light.svg">
-  <img src="assets/tools-dark.svg" alt="Инструменты. Веб: TypeScript, JavaScript, HTML, CSS. Автоматизация: PowerShell, Windows Batch." width="100%">
-</picture>
+A Windows script for downloading YouTube videos with yt-dlp. It accepts a single link or a plain-text list for batch downloads.
+
+---
+
+`03 / TOOLKIT`
+
+**Web** &nbsp; `TypeScript` `JavaScript` `HTML` `CSS`  
+**Automation** &nbsp; `PowerShell` `Windows Batch`
