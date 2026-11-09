@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/cover-light.svg">
-  <img src="assets/cover-dark.svg" alt="PlusFour" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/plusfour-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/plusfour-light.svg">
+  <img src="assets/plusfour-dark.svg" alt="PlusFour" width="100%">
 </picture>
 
 `01 / PROFILE`
