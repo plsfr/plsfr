@@ -10,13 +10,13 @@
 
 ## 01 / Избранное
 
-### [Nekofy ↗](https://github.com/plsfr/nekofy)
+### [Nekofy](https://github.com/plsfr/nekofy)
 
 Браузерное приключение с пятью островами, мини-играми и виртуальным котёнком. Здесь я работаю с игровыми механиками, визуальными деталями и сохранением прогресса в браузере.
 
-`TypeScript` · `React` · `Vite` &nbsp;·&nbsp; [Играть ↗](https://plsfr.github.io/nekofy/)
+`TypeScript` · `React` · `Vite` &nbsp;·&nbsp; [Играть](https://plsfr.github.io/nekofy/)
 
-### [FourScript ↗](https://github.com/plsfr/fourscript)
+### [FourScript](https://github.com/plsfr/fourscript)
 
 Инструмент для Windows, который скачивает видео через `yt-dlp` по одной ссылке или обрабатывает список из текстового файла.
 
@@ -36,4 +36,4 @@
 
 ---
 
-[Все репозитории ↗](https://github.com/plsfr?tab=repositories)
+[Все репозитории](https://github.com/plsfr?tab=repositories)
