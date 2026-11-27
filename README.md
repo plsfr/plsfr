@@ -1,6 +1,8 @@
-<img src="./banner.svg" width="100%" alt="plsfr" />
+<div align="center">
+  <img src="./banner.svg" width="100%" alt="plsfr" />
+</div>
 
-I make minimalist apps and fork existing ones. I like removing bloat, optimizing performance, and keeping only the features I actually need.
+I make minimalist apps, fork existing ones, and write scripts for system optimization and automation. I like removing bloat, improving performance, and keeping only the features I actually need.
 
 I use AI to help write and improve code. My own projects are open source under the MIT license.
 
