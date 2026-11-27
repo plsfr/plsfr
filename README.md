@@ -1,32 +1,20 @@
-<div align="center">
-  <img src="./banner.svg" width="100%" alt="plsfr — Everything essential. Nothing unnecessary." />
-</div>
+<img src="./banner.svg" width="100%" alt="plsfr" />
 
-## 01 / About
+I make minimalist apps and fork existing ones. I like removing bloat, optimizing performance, and keeping only the features I actually need.
 
-I build and refine minimalist software with the assistance of AI. From original applications to carefully refined forks, my focus is on clean interfaces, performance, and essential functionality.
+I use AI to help write and improve code. My own projects are open source under the MIT license.
 
-I enjoy optimizing software, removing unnecessary complexity, and making everyday tools feel more intentional.
+### What I care about
 
-## 02 / Principles
+- Clean, minimal interfaces
+- Low resource usage
+- Fast and responsive apps
+- No unnecessary features
 
-```text
-01   Functionality over complexity
-02   Performance over bloat
-03   Simplicity over decoration
-04   Open source by design
-```
+### Projects
 
-## 03 / Projects
+[whiterinth](https://github.com/plsfr/whiterinth)
 
-[**whiterinth**](https://github.com/plsfr/whiterinth) — View project
+### Contact
 
-[All repositories →](https://github.com/plsfr?tab=repositories)
-
-## 04 / Open source
-
-My original projects are intended to be released under the MIT License. Forks respect their upstream licenses. AI is part of my development workflow.
-
----
-
-<div align="center"><sub>Less, but better.</sub></div>
+<a href="https://t.me/pllsfr"><img src="https://img.shields.io/badge/Telegram-%40pllsfr-242424?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Contact on Telegram" /></a>
